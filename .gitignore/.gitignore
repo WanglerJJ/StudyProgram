@@ -1,1 +1,8 @@
 *.rar
+*.sln
+*.vcxproj
+*.filters
+*.user
+/x64
+/GeneratedFiles
+/Resources
