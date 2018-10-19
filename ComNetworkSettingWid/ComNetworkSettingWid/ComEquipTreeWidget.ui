@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ComEquipTreeWidget</class>
+ <widget class="QTreeWidget" name="ComEquipTreeWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ComEquipTreeWidget</string>
+  </property>
+  <property name="dragEnabled">
+   <bool>false</bool>
+  </property>
+  <attribute name="headerVisible">
+   <bool>false</bool>
+  </attribute>
+  <column>
+   <property name="text">
+    <string>通信装备</string>
+   </property>
+  </column>
+  <item>
+   <property name="text">
+    <string>预警机</string>
+   </property>
+   <item>
+    <property name="text">
+     <string>数据链通信</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>通信发射机</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>通信接收机</string>
+     </property>
+    </item>
+   </item>
+   <item>
+    <property name="text">
+     <string>超短波通信电台</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>通信发射机</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>通信接收机</string>
+     </property>
+    </item>
+   </item>
+  </item>
+  <item>
+   <property name="text">
+    <string>战斗机</string>
+   </property>
+  </item>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
