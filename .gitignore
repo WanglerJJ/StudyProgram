@@ -11,12 +11,12 @@
 *.exe
 *.ilk
 
-x64/Debug/TreeWidDragDemo.tlog/*
-x64/Debug/TreeWidDragDemo.tlog/*
-x64/Debug/*
-x64/*
-GeneratedFiles/Debug/*
-GeneratedFiles/*
-Resources/*
-.vs/*
+x64/Debug/TreeWidDragDemo.tlog/
+x64/Debug/TreeWidDragDemo.tlog/
+x64/Debug/
+x64/
+GeneratedFiles/Debug/
+GeneratedFiles/
+Resources/
+.vs/
 
